@@ -1,0 +1,13 @@
+Home Component
+	4 cards- Medicine, Kirana, Clothing, Cosmetics -> 5 shops each (Saqib)
+	Every Shop 10 items in that category (Kriti)
+	Each item picture, description, price and quantity (Saurabh)
+	cart option (add or remove) (Dhruv)
+	order place scenes
+
+
+
+
+shops{
+	
+}

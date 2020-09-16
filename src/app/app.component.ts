@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Tour of Heroes';
+  title = 'E-Sale Platform, Gali ke Dukaanon ke Apni Pehchan';
 
 }
