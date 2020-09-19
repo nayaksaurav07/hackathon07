@@ -5,9 +5,3 @@ Home Component
 	cart option (add or remove) (Dhruv)
 	order place scenes
 
-
-
-
-shops{
-	
-}
